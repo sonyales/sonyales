@@ -44,6 +44,24 @@ I work with React, TypeScript and modern frontend tooling. I care about readable
 - responsive and accessible interfaces
 - testing user flows
 
+## Featured projects
+
+| Project | Description | Tech stack |
+|---|---|---|
+| [SkillSwap](https://github.com/sonyales/SkillSwap) | A skill exchange platform where users can create skill offers, browse other users' skills, add favorites and request exchanges. | React, TypeScript, Redux Toolkit, SCSS, Jest, React Testing Library, GitHub Actions |
+| [Stellar Burgers](https://github.com/sonyales/stellar-burgers) | A burger constructor SPA with authentication, protected routes, order feed, profile page and API integration. | React, TypeScript, Redux Toolkit, React Router, REST API, Jest, Cypress, Storybook |
+| [WebLarek](https://github.com/sonyales/weblarek) | An online store with product catalog, cart, modal windows and order flow. Built with MVP architecture. | TypeScript, Vite, SCSS, REST API |
+| [Blog Customizer](https://github.com/sonyales/blog-customizer) | A UI customization tool for changing article appearance through a sidebar form. | React, TypeScript, SCSS, Storybook |
+| [Smart Table](https://github.com/sonyales/smart-table) | A data table with API loading, search, filtering, sorting and pagination. | JavaScript, Vite, REST API |
+
+## Portfolio
+
+Full project portfolio with descriptions in Russian:
+
+<a href="https://github.com/sonyales/portfolio-repo" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20Frontend%20Portfolio-RU-2F74C0?style=for-the-badge&logo=github&logoColor=white" alt="Open Frontend Portfolio" />
+</a>
+
 ## GitHub stats
 
 <p align="left">
