@@ -51,6 +51,7 @@ I work with React, TypeScript and modern frontend tooling. I care about readable
 | [SkillSwap](https://github.com/sonyales/SkillSwap) | A skill exchange platform where users can create skill offers, browse other users' skills, add favorites and request exchanges. | React, TypeScript, Redux Toolkit, SCSS, Jest, React Testing Library, GitHub Actions |
 | [Stellar Burgers](https://github.com/sonyales/stellar-burgers) | A burger constructor SPA with authentication, protected routes, order feed, profile page and API integration. | React, TypeScript, Redux Toolkit, React Router, REST API, Jest, Cypress, Storybook |
 | [WebLarek](https://github.com/sonyales/weblarek) | An online store with product catalog, cart, modal windows and order flow. Built with MVP architecture. | TypeScript, Vite, SCSS, REST API |
+| [TimeJar](https://github.com/sonyales/time-jar) | A visual waiting tracker for important dates. Users choose a start and end date, and the app calculates waiting progress in percent and visualizes it as a jar that gradually fills up. | React, TypeScript, Vite, SCSS, Motion |
 | [Blog Customizer](https://github.com/sonyales/blog-customizer) | A UI customization tool for changing article appearance through a sidebar form. | React, TypeScript, SCSS, Storybook |
 | [Smart Table](https://github.com/sonyales/smart-table) | A data table with API loading, search, filtering, sorting and pagination. | JavaScript, Vite, REST API |
 
