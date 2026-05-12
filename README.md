@@ -49,15 +49,44 @@ I work with React, TypeScript, Redux Toolkit and modern frontend tooling. I buil
 
 ## Development focus
 
-```ts
-const developmentFocus = {
-  core: ['React', 'TypeScript', 'SPA applications'],
-  architecture: ['reusable components', 'maintainable structure', 'clear UI logic'],
-  state: ['Redux Toolkit', 'predictable data flow', 'application state'],
-  quality: ['Jest', 'React Testing Library', 'Cypress', 'Storybook'],
-  userExperience: ['responsive UI', 'accessibility', 'smooth user flows'],
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>⚛️ React + TypeScript</strong>
+      <br />
+      Building typed, component-based SPA applications with clear and reusable UI logic.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧩 Component architecture</strong>
+      <br />
+      Designing readable component structure and maintainable UI patterns.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔄 State management</strong>
+      <br />
+      Working with predictable data flow, Redux Toolkit and application state.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧪 Testing user flows</strong>
+      <br />
+      Covering key logic and important user scenarios with tests.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📱 Responsive UI</strong>
+      <br />
+      Creating layouts that work well across different screen sizes.
+    </td>
+    <td width="50%" valign="top">
+      <strong>♿ Accessibility</strong>
+      <br />
+      Making interfaces clearer, easier to navigate and more user-friendly.
+    </td>
+  </tr>
+</table>
 
 I’m currently growing toward stronger frontend architecture: thoughtful component structure, reliable state management, testable logic and interfaces that are easy to maintain.
 
