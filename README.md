@@ -81,11 +81,11 @@ Full project portfolio with descriptions in Russian:
 
 ## GitHub stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyales&theme=tokyonight" alt="GitHub profile details" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyales&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonyales&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonyales&theme=github_dark)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonyales&theme=tokyonight" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonyales&theme=tokyonight" alt="GitHub stats" />
+</p>
