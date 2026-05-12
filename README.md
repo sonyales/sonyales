@@ -78,3 +78,14 @@ Full project portfolio with descriptions in Russian:
 <a href="https://github.com/sonyales/portfolio-repo" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Frontend%20Portfolio-RU-2F74C0?style=for-the-badge&logo=github&logoColor=white" alt="Open Frontend Portfolio" />
 </a>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyales&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonyales&theme=tokyonight" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonyales&theme=tokyonight" alt="GitHub stats" />
+</p>
