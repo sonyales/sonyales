@@ -49,44 +49,14 @@ I work with React, TypeScript, Redux Toolkit and modern frontend tooling. I buil
 
 ## Development focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>⚛️ React + TypeScript</strong>
-      <br />
-      Building typed, component-based SPA applications with clear and reusable UI logic.
-    </td>
-    <td width="50%" valign="top">
-      <strong>🧩 Component architecture</strong>
-      <br />
-      Designing readable component structure and maintainable UI patterns.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🔄 State management</strong>
-      <br />
-      Working with predictable data flow, Redux Toolkit and application state.
-    </td>
-    <td width="50%" valign="top">
-      <strong>🧪 Testing user flows</strong>
-      <br />
-      Covering key logic and important user scenarios with tests.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>📱 Responsive UI</strong>
-      <br />
-      Creating layouts that work well across different screen sizes.
-    </td>
-    <td width="50%" valign="top">
-      <strong>♿ Accessibility</strong>
-      <br />
-      Making interfaces clearer, easier to navigate and more user-friendly.
-    </td>
-  </tr>
-</table>
+| Focus area | What I work on |
+|---|---|
+| ⚛️ React + TypeScript | Typed SPA applications and reusable UI logic |
+| 🧩 Component architecture | Clear structure, reusable components and maintainable patterns |
+| 🔄 State management | Predictable data flow with Redux Toolkit |
+| 🧪 Testing | Key logic and user scenarios with Jest, RTL and Cypress |
+| 📱 Responsive UI | Interfaces for different screen sizes |
+| ♿ Accessibility | Clear, usable and easy-to-navigate interfaces |
 
 I’m currently growing toward stronger frontend architecture: thoughtful component structure, reliable state management, testable logic and interfaces that are easy to maintain.
 
