@@ -68,7 +68,7 @@ Full project portfolio with descriptions in Russian:
 <p align="left">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyales&layout=compact&langs_count=6&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyales&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400"
     alt="Top languages"
   />
 </p>
