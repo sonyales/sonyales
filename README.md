@@ -49,13 +49,14 @@ I work with React, TypeScript, Redux Toolkit and modern frontend tooling. I buil
 
 ## Development focus
 
-```txt
-React + TypeScript       ████████████████████
-Component architecture   ██████████████████░░
-State management         █████████████████░░░
-Testing user flows       ███████████████░░░░░
-Responsive UI            ████████████████░░░░
-Accessible interfaces    ███████████████░░░░░
+```ts
+const developmentFocus = {
+  core: ['React', 'TypeScript', 'SPA applications'],
+  architecture: ['reusable components', 'maintainable structure', 'clear UI logic'],
+  state: ['Redux Toolkit', 'predictable data flow', 'application state'],
+  quality: ['Jest', 'React Testing Library', 'Cypress', 'Storybook'],
+  userExperience: ['responsive UI', 'accessibility', 'smooth user flows'],
+};
 ```
 
 I’m currently growing toward stronger frontend architecture: thoughtful component structure, reliable state management, testable logic and interfaces that are easy to maintain.
